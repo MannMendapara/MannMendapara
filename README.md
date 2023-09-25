@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" height="280" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🔭 I’m currently working on my **Portfiloi-site**
+- 🔭 I’m currently working on my **Portfolio-site**
 
 - 🌱 I’m currently learning **React JS**
 
