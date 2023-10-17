@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Portfolio-site**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backemd Development**
 
 - 🐬 I solve problems on geeksforgeeks and leetcode.
 
